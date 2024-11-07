@@ -1,6 +1,8 @@
 # digital_business_card
 
-A new Flutter project.
+Digital business card using flutter with: 
+- Animated clouds in background
+- Functional buttons
 
 ## Getting Started
 
